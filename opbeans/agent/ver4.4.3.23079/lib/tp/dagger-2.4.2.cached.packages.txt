@@ -1,0 +1,4 @@
+1524787486000
+dagger
+dagger.multibindings
+dagger.internal

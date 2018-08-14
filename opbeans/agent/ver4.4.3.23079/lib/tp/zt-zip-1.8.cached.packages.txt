@@ -1,0 +1,4 @@
+1524787486000
+org.zeroturnaround.zip
+org.zeroturnaround.zip.commons
+org.zeroturnaround.zip.transform

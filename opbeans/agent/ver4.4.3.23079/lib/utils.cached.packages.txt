@@ -1,0 +1,7 @@
+1524787486000
+com.singularity.ee.agent.util
+com.singularity.ee.agent.appagent.kernel.config
+com.singularity.ee.agent.util.reflect
+com.singularity.ee.util.collections
+com.singularity.ee.util.reflect
+com.singularity.ee.util

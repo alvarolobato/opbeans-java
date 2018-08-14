@@ -1,0 +1,9 @@
+1524787486000
+com.singularity.asm501.org.objectweb.asm.tree.analysis
+com.singularity.asm501.org.objectweb.asm.util
+com.singularity.asm501.org.objectweb.asm.commons
+com.singularity.asm501.org.objectweb.asm.tree
+com.singularity.asm501.org.objectweb.asm
+com.singularity.asm501.org.objectweb.asm.optimizer
+com.singularity.asm501.org.objectweb.asm.signature
+com.singularity.asm501.org.objectweb.asm.xml
